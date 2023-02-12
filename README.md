@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrustycode" alt="itsrustycode" /></a> </p>
 
-- 🔭 I’m currently working on [Meetyou](https://github.com/itsrusty/meetyou_connection)
+- 🔭 I’m currently working on [Meetyou](https://github.com/itsrusty/meetyou)
 
 - 🌱 I’m currently learning **nodejs, express, reactjs**
 
