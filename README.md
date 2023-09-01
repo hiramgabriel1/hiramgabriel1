@@ -9,6 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsrusty&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrusty&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/itsrusty"><img src="https://api.daily.dev/devcards/aebea3b1921c45fbb8d36f4e702e23fe.png?r=4y7" width="400" alt="Angel Hiram Gabriel Gutiérrez's Dev Card"/></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsrusty&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
