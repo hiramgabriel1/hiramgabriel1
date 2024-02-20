@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrusty&theme=dark_lover" alt="itsrusty" /></a> </p>
 
-- 🔭 I’m currently working on **LinkTic**
 - 👯 I’m looking to collaborate on **Vopper Community**
 - 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **NodeJS, Typescript, JavaScript, ExpressJS, Redis, Python, Flask, Supabase, MongoDB, Redis, Sveltekit**
