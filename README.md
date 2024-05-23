@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Vopper Community**
 - 🌱 I’m currently learning **NestJS**
-- 💬 Ask me about **NodeJS, Typescript, JavaScript, ExpressJS, Redis, Python, Flask, Supabase, MongoDB, Redis, Sveltekit**
+- 💬 Ask me about **NodeJS, Typescript, JavaScript, ExpressJS, Redis, Supabase, PostgreSQL, Sveltekit**
 - 📫 How to reach me **rusty3031@gmail.com**
 - ⚡ Fun fact **I don't really like typed languages... but I like typescript 😜**
 
