@@ -1,54 +1,138 @@
-<h1 align="center">Hi 👋, I'm Hiram Gabriel</h1>
-<h3 align="center">Backend Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsrusty&label=Profile%20views&color=0e75b6&style=flat" alt="itsrusty" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrusty&theme=dark_lover" alt="itsrusty" /></a> </p>
-
-- 👯 I’m looking to collaborate on **Nuvix SaaS**
-- 🌱 I’m currently learning **NestJS**
-- 💬 Ask me about **NodeJS, Typescript, JavaScript, ExpressJS, Redis, Supabase, PostgreSQL, Sveltekit**
-- 📫 How to reach me **rusty3031@gmail.com**
-- ⚡ Fun fact **I don't really like typed languages... but I like typescript 😜**
-
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hiram-gabriel-2123bb240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/itsrusty" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/hiram.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:rusty3031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiram-gabriel-2123bb240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiram-gabriel-2123bb240/" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/hiram.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/hiram.dev/" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrusty&show_icons=true&locale=en&theme=dark" alt="itsrusty" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrusty&theme=dark" alt="itsrusty" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
 <div align="center">
-<a href="https://github.com/itsrusty">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrusty&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsrusty&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsrusty&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsrusty&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrusty&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=itsrusty&theme=nightowl"/>
+<a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
+</a></div><a href="https://ossinsight.io">
+</a><h4 align="center"><a href="https://ossinsight.io">
+  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  •
+  <a href="https://ossinsight.io/blog">Blog</a>
+  •
+  <a href="https://ossinsight.io/docs">API</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h4>
+<h2 id="introduction">Introduction</h2>
+<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
+<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
+<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
+<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Pull Request Size</th><th>Pull Request Lifecycle</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
+<h2 id="contact-us">Contact us</h2>
+<a href="https://twitter.com/OSSInsight" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
+</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
+</a><a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
+<h2 id="sponsors">Sponsors</h2>
+</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
+</a> 
