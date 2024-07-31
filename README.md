@@ -1,107 +1,54 @@
-  <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200">
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40"></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40"></a>
-<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40"></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40"></a>
-<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40"></a>
- <a href="mailto: chowrasia.akash08@gmail.com"><img align="middle" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"></a>
-</p>
-<p></p>
-<p align="center">
-  <em>
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering &amp; technology</b>, amritsar</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp;.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="akash-chowrasia"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
-✔ I’m currently Developing <strong>Paycron</strong> Payment Gateway <strong>@Plaxonic</strong><br>
-✔ I’m currently learning <strong>ReactJS</strong> &amp; <strong>NodeJS</strong><br>
-✔ I’m looking to collaborate with any <strong>Open - Source contribution</strong><br>
-✔ I’m looking for help for learning <strong>Remote Sensing</strong><br>
-✔ I regularly write articles on <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/articles">GeeksforGeeks</a> <br>
-✔ I use to write coad on <a href="https://leetcode.com/Akash_Chowrasia/">leetcode</a> <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : <em>At The time of Stress coding, I use to be in half sleeping mode</em><br><br><br><br></p>
-<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
+<h1 align="center">Hi 👋, I'm Hiram Gabriel</h1>
+<h3 align="center">Backend Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsrusty&label=Profile%20views&color=0e75b6&style=flat" alt="itsrusty" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrusty&theme=dark_lover" alt="itsrusty" /></a> </p>
+
+- 👯 I’m looking to collaborate on **Nuvix SaaS**
+- 🌱 I’m currently learning **NestJS**
+- 💬 Ask me about **NodeJS, Typescript, JavaScript, ExpressJS, Redis, Supabase, PostgreSQL, Sveltekit**
+- 📫 How to reach me **rusty3031@gmail.com**
+- ⚡ Fun fact **I don't really like typed languages... but I like typescript 😜**
+
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hiram-gabriel-2123bb240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/itsrusty" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/https://www.instagram.com/hiram.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:rusty3031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-</p><p><code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code>
-<img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-<code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-<code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code></p>
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status">&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="akash-chowrasia"></p>
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&amp;show_icons=true&amp;locale=en" alt="akash-chowrasia" width="410"></p>
-<hr>
-<p>Here are some <a href="https://cultofthepartyparrot.com">🦜 parrots</a>:</p>
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiram-gabriel-2123bb240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiram-gabriel-2123bb240/" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/hiram.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/hiram.dev/" height="30" width="40" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrusty&show_icons=true&locale=en&theme=dark" alt="itsrusty" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrusty&theme=dark" alt="itsrusty" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/itsrusty">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsrusty&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsrusty&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsrusty&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsrusty&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsrusty&theme=2077" height="180em" />
 </div>
-<hr>
-<h4 id="want-to-build-your-own">Want to Build Your Own?</h4>
-<p>Do you like my profile and want to build your own? It’s very simple. GitHub recently added a new feature called <strong>Profile Readmes</strong>. For it to work, do the following:</p>
-<ol>
-<li>Create a <em>special</em> GitHub repository with your username as repository name. My username is <code>Akash-chowrasia</code> so my profile readme repository has the name <code>Akash-chowrasia</code>.</li>
-<li>Add a <code>README.md</code> to this repository.</li>
-<li>Put some cool content about yourself (or anything you want) into <code>README.md</code>.</li>
-</ol>
-<p>And that’s about it. The <code>README.md</code> of your profile readme repository will be displayed on your profile page.</p>
-<hr>
-<p>Credits: <a href="https://github.com/Akash-chowrasia">Akash chowrasia</a></p>
-<p>Last Edited on: 22/02/2021</p> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=itsrusty&theme=nightowl"/>
