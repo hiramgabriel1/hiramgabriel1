@@ -59,30 +59,6 @@ My expertise lies in developing robust backend solutions. Here's a glimpse into 
 
 </div>
 
-## 🎓 Certifications & Achievements
-- 🏆 AWS Certified Solutions Architect - Associate
-- 📜 Google Cloud Professional Developer
-- 🥇 HackerRank 5-star in Python (Algorithms & Data Structures)
-- 📊 Coursera Microservices Architecture Specialization
-
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts -->
-- 📖 [Building Scalable Microservices with Go and gRPC](https://yourblog.com/go-grpc-microservices)
-- 🔧 [Optimizing PostgreSQL Queries for Large Datasets](https://yourblog.com/postgresql-optimization)
-- ☁️ [Deploying Serverless APIs with AWS Lambda and API Gateway](https://yourblog.com/aws-lambda-api-gateway)
-
-## 🎯 2024 Goals
-- 🚀 Contribute to 5+ significant open source backend projects
-- 📚 Master advanced Kubernetes concepts and GitOps practices
-- 🌟 Reach 250+ GitHub followers
-- 📝 Publish 6+ technical deep-dive articles on backend best practices
-
-## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions -->
-- 🔧 **[Popular Go Library Name]**: Contributed significant features for database connection pooling and error handling.
-- 🌟 **[Python Web Framework]**: Improved documentation and provided performance optimizations for middleware.
-- 🚀 **[DevOps Tool]**: Developed a new plugin for integrating CI/CD pipelines with cloud services.
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hiramgabriel1&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
