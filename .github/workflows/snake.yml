@@ -1,27 +1,23 @@
-name: generate snake
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-game:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v6
         with:
-          github_user_name: hiramgabriel1
-          outputs: dist/github-contribution-grid-snake.svg
+          fetch-depth: 2  # This is crucial!
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: czl9707/gh-space-shooter@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
