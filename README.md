@@ -2,7 +2,7 @@
 
 <code>hiram.dev@GitHub:~$ cat README.md</code>
 
-[Me](#me) • [About](#about-me) • [Projects](#projects) • [Contact](#contact)
+[Me](#me) • [About](#about-me) • [Projects](#projects)
 
 <h1 align="center">💻 Hey, I'm hiram.dev 💻</h1>
 <h3 align="center">🚀 Fullstack Developer building scalable products & systems 🚀</h3>
@@ -125,26 +125,6 @@ A system that:
 * 🧠 Building AI-powered SaaS products
 * 🔄 Learning real-world DevOps practices
 * 🚀 Creating products focused on automation & business efficiency
-
----
-
-<a name="contact"></a>
-
-## 🔗 Contact
-
-<p align="center">
-  <a href="https://hgabriel.dev">
-    <img src="https://img.shields.io/badge/Website-hgabriel.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/hiramgabriel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://www.tiktok.com/@hiram.dev">
-    <img src="https://img.shields.io/badge/TikTok-@hiram.dev-black?style=for-the-badge&logo=tiktok" />
-  </a>
-</p>
 
 ---
 
