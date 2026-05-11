@@ -2,7 +2,7 @@
 
 <code>hiram.dev@GitHub:~$ cat README.md</code>
 
-[Me](#me) • [About](#about-me) • [Projects](#projects) • [Stats](#github-stats) • [Contact](#contact)
+[Me](#me) • [About](#about-me) • [Projects](#projects) • [Contact](#contact)
 
 <h1 align="center">💻 Hey, I'm hiram.dev 💻</h1>
 <h3 align="center">🚀 Fullstack Developer building scalable products & systems 🚀</h3>
@@ -95,67 +95,6 @@ A system that:
 - creates separate chats per document
 - allows asking questions about contracts
 - detects potential mistakes or issues using AI
-
----
-
-<a name="knowledge"></a>
-
-## 🧠 Knowledge Areas
-
-* ⚙️ Backend Architecture
-* 🌐 Fullstack Development
-* 🔥 Real-Time Systems & WebSockets
-* 🧠 AI Integrations with OpenAI APIs
-* 📨 Queue Systems (RabbitMQ / BullMQ)
-* ⚡ Redis Caching & Pub/Sub
-* ☁️ Cloud Infrastructure & Deployments
-* 🐳 Docker & Containerization
-* 🔄 Load Balancing & Scaling
-* 🛜 API Design & REST Architectures
-* 🧩 Authentication & JWT
-* 🐧 Linux Server Management
-* 📦 PostgreSQL & Prisma ORM
-
----
-
-<a name="languages-tools"></a>
-
-## 🧰 Languages & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</p>
-
----
-
-<a name="github-stats"></a>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiramdev&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiramdev&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiramdev&theme=dark" />
-</p>
 
 ---
 
