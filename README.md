@@ -12,9 +12,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-hiram.dev-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.tiktok.com/"><img src="https://img.shields.io/badge/TikTok-12K%20Followers-black?style=for-the-badge&logo=tiktok" /></a>
-  <a href="mailto:hiramdev@proton.me"><img src="https://img.shields.io/badge/Email-hiramdev@proton.me-informational?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-hiram.dev-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/hiramgabriel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://www.tiktok.com/@hiram.dev">
+    <img src="https://img.shields.io/badge/TikTok-13.3K%20Followers-black?style=for-the-badge&logo=tiktok" />
+  </a>
+
+  <a href="https://hgabriel.dev">
+    <img src="https://img.shields.io/badge/Website-hgabriel.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:hiramdev@proton.me">
+    <img src="https://img.shields.io/badge/Email-hiramdev@proton.me-informational?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
@@ -117,8 +133,16 @@ A system that:
 ## 🔗 Contact
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-hiram.dev-black?style=for-the-badge&logo=github" />
+  <a href="https://hgabriel.dev">
+    <img src="https://img.shields.io/badge/Website-hgabriel.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/hiramgabriel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://www.tiktok.com/@hiram.dev">
+    <img src="https://img.shields.io/badge/TikTok-@hiram.dev-black?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
 
@@ -126,16 +150,4 @@ A system that:
 
 <p align="center">
   “Build systems that scale, products that matter.”
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
