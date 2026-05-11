@@ -12,25 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-hiram.dev-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/hiramgabriel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://www.tiktok.com/@hiram.dev">
-    <img src="https://img.shields.io/badge/TikTok-13.3K%20Followers-black?style=for-the-badge&logo=tiktok" />
-  </a>
-
-  <a href="https://hgabriel.dev">
-    <img src="https://img.shields.io/badge/Website-hgabriel.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-
-  <a href="mailto:hiramdev@proton.me">
-    <img src="https://img.shields.io/badge/Email-hiramdev@proton.me-informational?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://github.com/hiramdev">GitHub</a> •
+  <a href="https://www.linkedin.com/in/hiramgabriel/">LinkedIn</a> •
+  <a href="https://www.tiktok.com/@hiram.dev">TikTok</a> •
+  <a href="https://hgabriel.dev">Website</a>
 </p>
 
 ---
