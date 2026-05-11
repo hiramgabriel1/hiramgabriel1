@@ -15,6 +15,7 @@
   <a href="https://github.com/hiramdev">GitHub</a> •
   <a href="https://www.linkedin.com/in/hiramgabriel/">LinkedIn</a> •
   <a href="https://www.tiktok.com/@hiram.dev">TikTok</a> •
+  <a href="https://www.instagram.com/@hiram.dev">Instagram</a> •
   <a href="https://hgabriel.dev">Website</a>
 </p>
 
