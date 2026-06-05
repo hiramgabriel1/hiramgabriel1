@@ -2,10 +2,10 @@
 
 <code>hiram.dev@GitHub:~$ cat README.md</code>
 
-[Me](#me) • [About](#about-me) • [Projects](#projects)
+[Me](#me) • [About](#about-me) • [Projects](#projects) • [Current Focus](#current-focus)
 
 <h1 align="center">💻 Hey, I'm hiram.dev 💻</h1>
-<h3 align="center">🚀 Fullstack Developer building scalable products & systems 🚀</h3>
+<h3 align="center">🚀 Fullstack Developer & SaaS Builder 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hiramdev&label=Profile%20Views&color=blue&style=flat-square" alt="hiramdev" />
@@ -25,14 +25,14 @@
 
 ## 👤 Me
 
-- 🔎 **Known as:** hiram.dev
-- 💻 **Role:** Fullstack Developer
-- 🗺️ **Location:** Mexico
-- 🗣️ **Languages:** Spanish, English
-- ⚙️ **Main Stack:** TypeScript, Node.js, React, SvelteKit, NestJS
-- 🚀 **Goal:** Build scalable SaaS products completely developed by me
-- 🧠 **Currently Learning:** System Design, Distributed Systems, DevOps & Cloud Infrastructure
-- 🎥 **Content Creator:** Tech & programming content on TikTok
+* 🔎 **Known as:** hiram.dev
+* 💻 **Role:** Fullstack Developer & Founder
+* 🗺️ **Location:** Mexico 🇲🇽
+* 🗣️ **Languages:** Spanish, English
+* ⚙️ **Main Stack:** TypeScript, Node.js, React, SvelteKit, NestJS
+* 🚀 **Mission:** Build scalable software products used by thousands of people
+* 🧠 **Learning:** Distributed Systems, DevOps, Cloud Infrastructure & Product Design
+* 🎥 **Content Creator:** Sharing software engineering & entrepreneurship content
 
 ---
 
@@ -40,12 +40,20 @@
 
 ## 💡 About Me
 
-* 🚀 Passionate about building real-world software products
-* 🧠 Interested in scalable architectures, queues, workers, caching and distributed systems
-* ⚡ I enjoy learning backend engineering deeply instead of only using abstractions
-* 🛠️ Building systems with APIs, WebSockets, queues, Redis, RabbitMQ and cloud infrastructure
-* 📚 Constantly improving in software architecture and product thinking
-* 🎯 Focused on creating products that solve real business problems
+I enjoy building products from zero to production.
+
+My interests go beyond writing code. I spend a lot of time learning:
+
+* Scalable architectures
+* Distributed systems
+* Cloud infrastructure
+* Queues & event-driven systems
+* Product development
+* Automation with AI
+
+I believe great software comes from understanding both engineering and business.
+
+My long-term goal is to build software companies powered by products I create myself.
 
 ---
 
@@ -53,50 +61,74 @@
 
 ## 🚀 Projects
 
-### 🍽️ Restaurant/Cafeteria SaaS
+### 🌐 DevsHub
 
-Building a modern SaaS platform for:
-- order management
-- payments
-- kitchen workflows
-- real-time updates
-- inventory synchronization
-- automation systems
+Developer platform focused on helping developers:
 
-Architecture includes:
-- Load Balancers
-- Workers
-- Queues
-- Redis
-- RabbitMQ
-- Stripe Webhooks
-- Real-Time Events
+* Build their professional presence
+* Showcase projects and experience
+* Discover opportunities
+* Connect with other developers
+* Share knowledge and resources
+
+Vision:
+
+> Become the modern hub where developers build reputation through real projects instead of traditional resumes.
 
 ---
 
-### 🤖 CRM Automation Platform
+### 🤖 AI CRM Automation Platform
 
-A CRM system that automates:
-- WhatsApp
-- Instagram
-- Facebook
-- TikTok messaging
+CRM platform that automates communication across:
 
-Using AI to:
-- answer users in real time
-- synchronize inventory
-- automate sales flows
-- improve customer experience
+* WhatsApp
+* Instagram
+* Facebook
+* TikTok
+
+Features:
+
+* AI-powered conversations
+* Lead qualification
+* Sales automation
+* Inventory synchronization
+* Real-time customer support
+
+---
+
+### 🍽️ Restaurant & Cafeteria SaaS
+
+Modern infrastructure for restaurants and cafeterias:
+
+* Orders
+* Payments
+* Inventory
+* Kitchen workflows
+* Real-time updates
+* Automation
+
+Tech Focus:
+
+* Redis
+* RabbitMQ
+* WebSockets
+* Workers
+* Event-Driven Architecture
+* Stripe Integrations
 
 ---
 
 ### 📄 AI Contract Reader
 
-A system that:
-- reads contracts
-- creates separate chats per document
-- allows asking questions about contracts
-- detects potential mistakes or issues using AI
+AI-powered contract analysis system.
+
+Capabilities:
+
+* Upload contracts
+* Create dedicated chats per document
+* Ask contextual questions
+* Detect potential risks
+* Explain complex legal language
 
 ---
 
@@ -104,16 +136,45 @@ A system that:
 
 ## 🚀 Current Focus
 
-* ⚡ Learning scalable backend architecture deeply
-* ☁️ Studying cloud infrastructure and distributed systems
-* 🐳 Improving Docker & Kubernetes knowledge
-* 📦 Designing scalable queue-based systems
-* 🧠 Building AI-powered SaaS products
-* 🔄 Learning real-world DevOps practices
-* 🚀 Creating products focused on automation & business efficiency
+* ⚡ Mastering scalable backend systems
+* ☁️ Learning cloud-native architecture
+* 🐳 Docker & Kubernetes
+* 📦 Queue-based infrastructures
+* 🧠 AI-powered products
+* 🔄 DevOps & automation
+* 🚀 Growing products from idea to business
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* TypeScript
+* React
+* Next.js
+* SvelteKit
+* TailwindCSS
+
+### Backend
+
+* Node.js
+* NestJS
+* Express
+* PostgreSQL
+* Redis
+* RabbitMQ
+
+### DevOps & Infrastructure
+
+* Docker
+* Linux
+* Nginx
+* CI/CD
+* Cloud Platforms
 
 ---
 
 <p align="center">
-  “Build systems that scale, products that matter.”
+  <b>Building products, not just projects.</b>
 </p>
